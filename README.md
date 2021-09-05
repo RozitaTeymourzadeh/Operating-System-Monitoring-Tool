@@ -1,5 +1,5 @@
 
-# Project 1: Operating System Monitoring Tool
+# Operating System Monitoring Tool (Project 1) 
 
 ## 
 
