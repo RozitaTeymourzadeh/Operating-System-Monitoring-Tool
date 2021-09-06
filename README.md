@@ -3,9 +3,9 @@
 
 ## 
 
-Operating system monitoring tool runs in user space, outside the kernel. 
+An operating system monitoring tool runs in user space, outside the kernel. 
 
-An Unix utility to monitor the system and creates a summarized report for the user. (Shell flavor)
+A Unix utility to monitor the system and creates a summarized report for the user. (Shell flavor)
 
 Project supervisor: Malensek @USF 
 
